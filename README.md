@@ -21,7 +21,7 @@
 ## Dashboard Links
 
 - [Flask Dashboard Light PRO](https://appseed.us/admin-dashboards/flask-dashboard-light-pro) - Product page
-- [Flask Dashboard Light PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-light-pro) - Documentation
+- [Flask Dashboard Light PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-light-pro/) - Documentation
 - [Flask Dashboard Light PRO](https://flask-dashboard-light-pro.appseed.us/) - LIVE demo
 
 <br />
